@@ -1,0 +1,6 @@
+127.0.0.1
+[Domain: neverssl.com
+Path: http://neverssl.com/
+Date: Wed, 04 Jan 2023 14:06:01 GMT
+HTTP Method: GET
+Repsonse Status: HTTP/1.1 200 OK]
